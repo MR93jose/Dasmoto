@@ -12,3 +12,26 @@ body {
 .header {
   background-image: url("../images/pattern.jpeg");
 }
+
+#brush {
+  background-color: mediumspringgreen;
+}
+
+.item h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
+
+#frame {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
